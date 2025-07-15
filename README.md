@@ -15,7 +15,8 @@
 ## 🔧 How to Run
 
 ```bash
-git clone https://github.com/yourusername/notes-api.git
+git clone
+https://github.com/AjayKumar0077/Note-API.git
 cd notes-api
 npm install
 npm start
